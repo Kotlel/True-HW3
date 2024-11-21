@@ -1,0 +1,7 @@
+E:\source\repos\ConsoleApp3\lab\bin\Debug\lab.exe.config
+E:\source\repos\ConsoleApp3\lab\bin\Debug\lab.exe
+E:\source\repos\ConsoleApp3\lab\bin\Debug\lab.pdb
+E:\source\repos\ConsoleApp3\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+E:\source\repos\ConsoleApp3\lab\obj\Debug\lab.exe
+E:\source\repos\ConsoleApp3\lab\obj\Debug\lab.pdb
+E:\source\repos\ConsoleApp3\lab\obj\Debug\lab.csproj.AssemblyReference.cache
